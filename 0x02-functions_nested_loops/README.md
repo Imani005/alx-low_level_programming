@@ -1,1 +1,1 @@
-good
+6-abs.c
